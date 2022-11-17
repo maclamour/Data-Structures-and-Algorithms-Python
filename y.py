@@ -11,4 +11,4 @@ class Solution(object):
     Y = int(raw_input())
 
 
-    HousesFighting(Y)
+    print(HousesFighting(Y))
