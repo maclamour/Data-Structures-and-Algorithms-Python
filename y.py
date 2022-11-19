@@ -8,7 +8,7 @@ class Solution(object):
         elif N % 3 == 2:
             result = 'D and M'
 
-    Y = int(raw_input())
+    Y = int(raw_input(result))
 
 
     print(HousesFighting(Y))
